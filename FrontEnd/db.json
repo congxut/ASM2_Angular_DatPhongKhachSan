@@ -10,6 +10,40 @@
       "name": "Sản phẩm Demo 1",
       "price": 500,
       "id": "UqwuTPp"
+    },
+    {
+      "name": "ncx",
+      "price": 10,
+      "id": "GfMYbf2",
+      "categoryId": 2
+    },
+    {
+      "name": "Phòng ghép ",
+      "price": 1000,
+      "id": "5Yd1fl8",
+      "categoryId": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Category 1"
+    },
+    {
+      "id": 2,
+      "name": "Category 100"
+    },
+    {
+      "name": "lỗ tấn",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Thủy hử"
+    },
+    {
+      "name": "triệu vân",
+      "id": 5
     }
   ]
 }
